@@ -7,7 +7,7 @@ let pontuacao = 0
 let velocidade = 2
 let loop;
 let point;
-let pipeRange = 120
+let pipeRange = 100
 
 const restartButton = document.getElementById('restartButton');
 
