@@ -86,7 +86,7 @@ const startGame = () => {
         
                 mario.src = "../imagens/game-over.png"
                 mario.style.width = '85px'
-                mario.style.marginLeft = '50px'
+                mario.style.marginLeft = '52px'
                 clearInterval(loop)
                 clearInterval(point)
                 showButtonRestart()

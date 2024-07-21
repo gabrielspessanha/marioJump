@@ -22,7 +22,7 @@ body{
     position: absolute;
     bottom: 0;
     width: 100px;
-    animation: pipe-animation 2s infinite linear;  /* Faz referencia a animação do cano */
+    animation: pipe-animation 2s infinite linear; /* Faz referencia a animação do cano */
 }
 
 .mario { /* personagem */
